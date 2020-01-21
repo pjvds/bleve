@@ -134,6 +134,14 @@
 			"notests": true
 		},
 		{
+			"importpath": "github.com/apple/foundationdb/bindings/go",
+			"repository": "https://github.com/apple/foundationdb",
+			"vcs": "git",
+			"revision": "535a6fa20d0909ad6357ce9dafb73446a617b6a9",
+			"branch": "release-6.2",
+			"notests": true
+		},
+		{
 			"importpath": "github.com/couchbase/vellum",
 			"repository": "https://github.com/couchbase/vellum",
 			"vcs": "git",
